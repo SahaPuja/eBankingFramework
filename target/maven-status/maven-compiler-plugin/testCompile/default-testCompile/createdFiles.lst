@@ -1,0 +1,9 @@
+Utilities\Reporting.class
+Utilities\ReadConfig.class
+Utilities\Xls_Reader.class
+TestCases\TC_002_LoginDDT.class
+Pages\AddCustomerPage.class
+TestCases\TC_001_LoginTest.class
+Pages\LoginPage.class
+TestCases\TC_003_AddCustomerTest.class
+TestCases\BaseClass.class
